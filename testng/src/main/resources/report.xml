@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="suite">
+    <test name="test">
+        <classes>
+            <class name="com.course.testng.report"/>
+            <methods>
+                <include name="test1"/>
+                <include name="test2"/>
+            </methods>
+        </classes>
+    </test>
+    <listener>
+
+    </listener>
+</suite>

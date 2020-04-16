@@ -2,4 +2,9 @@
 追加追加
 这是master分支上的新增的内容
 这是wr分支修改的内容
+<<<<<<< HEAD
 
+=======
+version1
+version2
+>>>>>>> wr
